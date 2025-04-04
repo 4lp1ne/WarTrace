@@ -1,5 +1,7 @@
 # 🌍 OSINT War Crime & Hate Speech Toolkit
 
+All tools list under tools.md
+
 **A digital activism kit for verifying, documenting, and reporting war crimes and hate speech using open-source intelligence (OSINT).**
 
 ## 🚀 What This Is
