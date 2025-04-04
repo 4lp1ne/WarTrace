@@ -35,7 +35,9 @@ Osint-War-Crimes-Tools/tools.md
 │   ├── Picarta.ai
 │   ├── Google Earth Pro
 │   ├── SunCalc
-│   └── Sentinel Hub
+│   ├── Sentinel Hub
+│   ├── Planet Labs
+│   └── SkyWatch
 ├── Metadata_Redaction
 │   ├── ExifTool
 │   ├── Metapicz
@@ -49,6 +51,14 @@ Osint-War-Crimes-Tools/tools.md
 │   ├── TweetScraper
 │   ├── Tweepy
 │   └── Osintgram
+├── Phone_Number_OSINT
+│   ├── Epieos
+│   ├── PhoneInfoga
+│   ├── OSINT Industries
+│   ├── Sync.me
+│   ├── WhoCalledMe / NumBuster
+│   ├── Truecaller
+│   └── Scamcallfighters
 ├── Privacy_Encryption
 │   ├── Tails OS
 │   ├── ProtonVPN
@@ -70,19 +80,13 @@ Osint-War-Crimes-Tools/tools.md
 │   ├── Mempool Explorer
 │   ├── Bitquery
 │   └── Chainalysis
-├── Geolocation
-│   ├── Picarta.ai
-│   ├── Google Earth Pro
-│   ├── SunCalc
-│   ├── Sentinel Hub
-│   ├── Planet Labs
-│   └── SkyWatch
 └── Reporting_Resources
     ├── ICC
     ├── Bellingcat
     ├── Syrian Archive
     └── SecureDrop
 ```
+
 
 ---
 
