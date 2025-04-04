@@ -1,4 +1,4 @@
-# 🌍 Digital Witness OSINT Toolkit
+# 🌍 Digital List War Crimes OSINT Tools
 
 **Document, verify, and report war crimes and hate speech using open-source intelligence.** 
 
