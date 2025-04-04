@@ -53,6 +53,30 @@ Osint-War-Crimes-Tools/tools.md
 │   ├── Tails OS
 │   ├── ProtonVPN
 │   └── VeraCrypt
+├── Browser_Automation
+│   ├── Selenium
+│   └── Puppeteer
+├── AI_Image_Matching
+│   ├── Jina AI
+│   └── Image Super Resolution
+├── News_Monitoring
+│   ├── GDELT Project
+│   ├── News API
+│   └── Common Crawl
+├── Live_Conflict_Maps
+│   ├── Liveuamap
+│   └── MapHub
+├── Blockchain_Analysis
+│   ├── Mempool Explorer
+│   ├── Bitquery
+│   └── Chainalysis
+├── Geolocation
+│   ├── Picarta.ai
+│   ├── Google Earth Pro
+│   ├── SunCalc
+│   ├── Sentinel Hub
+│   ├── Planet Labs
+│   └── SkyWatch
 └── Reporting_Resources
     ├── ICC
     ├── Bellingcat
