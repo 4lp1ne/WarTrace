@@ -93,6 +93,8 @@ Osint-War-Crimes-Tools/tools.md
 
 ## 📄 Reporting Guidelines
 
+![326627f2-024b-4991-90de-8ee3e2fa85a6](https://github.com/user-attachments/assets/f233e39f-bcd8-4a4f-b06d-7024e4648965)
+
 ### ✅ What to Collect
 
 - **Original files only** — Never alter videos or images.
@@ -130,6 +132,8 @@ submission_folder/
 - Redact bystanders or unrelated individuals
 - Respect consent laws when interviewing witnesses
 - Only share with vetted legal/humanitarian orgs
+
+
 
 ### 📤 Submission Platforms
 
