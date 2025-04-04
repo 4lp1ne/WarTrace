@@ -2,6 +2,8 @@
 
 **Document, verify, and report war crimes and hate speech using open-source intelligence.** This toolkit empowers journalists, activists, and human rights defenders to gather and validate digital evidence ethically and securely.
 
+![326627f2-024b-4991-90de-8ee3e2fa85a6](https://github.com/user-attachments/assets/f233e39f-bcd8-4a4f-b06d-7024e4648965)
+
 ---
 
 ## ✊ Mission
@@ -93,7 +95,6 @@ Osint-War-Crimes-Tools/tools.md
 
 ## 📄 Reporting Guidelines
 
-![326627f2-024b-4991-90de-8ee3e2fa85a6](https://github.com/user-attachments/assets/f233e39f-bcd8-4a4f-b06d-7024e4648965)
 
 ### ✅ What to Collect
 
