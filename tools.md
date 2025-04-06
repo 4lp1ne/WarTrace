@@ -3,6 +3,8 @@
 This is a curated list of open-source intelligence (OSINT) tools to assist with identifying, verifying, and reporting individuals or entities responsible for war crimes, hate speech, and other atrocities. This toolkit is built for transparency, ethics, and justice.
 
 ---
+**osint website**
+https://osintframework.com/
 
 ## 📸 Reverse Image Search
 
