@@ -132,9 +132,12 @@ This is a curated list of open-source intelligence (OSINT) tools to assist with 
 - **[Scamcallfighters](https://scamcallfighters.com/)**\
   Investigate scam reports related to specific numbers.
 ---
-🕰️ Web Archiving & Evidence Storage
-Wayback Machine
-(archive.org pour capturer les pages web comme preuves)
+## 🕰️ Web Archiving & Evidence Storage
+ 
+  **Wayback Machine**
+  
+  https://archive.org/
+
 ---
 
 ## 🛡️ Privacy & Encryption
