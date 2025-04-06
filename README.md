@@ -157,6 +157,114 @@ submission_folder/
 
 Anonymous submissions: [SecureDrop](https://securedrop.org/)
 
+# exemple of report :
+
+# 🧪 OSINT Report — Hate Speech & Violence Promotion Documentation in social plateforms
+
+## 🎯 Case Title  
+**Incitation à la haine contre un groupe ethnique**
+
+## 📅 Date of Incident  
+**March 28, 2025**
+
+## 🌐 Platform  
+**YouTube**  
+**Video URL:** https://youtube.com/watch?v=xxxxxxxxx
+
+---
+
+## 🧩 Step 1: Capture & Preserve Evidence
+
+- 📸 **Screenshots** taken showing:
+  - Comment
+  - Username
+  - Timestamp
+  - Comment thread context
+
+- 🌐 **Web Archiving**
+  - [✅ Wayback Machine Snapshot](https://web.archive.org/web/YYYYMMDDHHMMSS/https://youtube.com/watch?v=xxxxxxxxx)
+  - [✅ Archive.today](https://archive.ph/XXXXXXXX)
+
+- 🕒 Evidence captured at: **2025-03-28 17:03 UTC**
+
+---
+
+## 🧠 Step 2: Contextual Toxicity Analysis
+
+- 🔍 Tools used:
+  - [HateSonar](https://github.com/vzhou842/hatesonar)
+  - [Perspective API](https://www.perspectiveapi.com/)
+
+- **Results:**
+  - Toxicity score: `0.91`
+  - Identity attack score: `0.87`
+
+- **Keywords/Flags:**
+  - Dehumanizing language
+  - Historical hate symbols
+  - Call to violence
+
+---
+
+## 🕵️ Step 3: Account Attribution
+
+- **OSINT Techniques:**
+  - Reverse image search of profile picture (Google, Yandex, PimEyes)
+  - Handle analysis using:
+    - `OSINTgram` (Instagram link discovery)
+    - `Twint` (Twitter/X profile scraping)
+    - `Epieos` (email/phone lookup)
+
+- **Findings:**
+  - Repeated hate speech from same handle across X, Facebook
+  - Possible alias used on extremist forums
+
+---
+
+## 🌍 Step 4: Social Corroboration
+
+- **Crowd verification tools:**
+  - `TweetScraper` to search real-time X mentions
+  - `Check` by Meedan for collaborative verification
+
+- **Results:**
+  - 5 other users flagged the comment on the same day
+  - 12 likes and 3 replies endorsing the hateful message
+
+---
+
+## 📨 Step 5: Submission for Investigation
+
+- 🗂️ Packaged Material:
+  - `screenshots/` directory with annotated images
+  - `archive_links.txt` with frozen URLs
+  - `toxicity_report.json` from HateSonar & Perspective
+  - `user_profile_report.md` with social links and activity
+  - `summary_notes.md` with legal and contextual description
+
+- 🧾 Submitted to:
+  - [Bellingcat Tip Submission](https://www.bellingcat.com/contact/)
+  - [EU DisinfoLab](https://www.disinfo.eu/)
+  - [YouTube Trust & Safety](https://support.google.com/youtube/answer/2802027)
+  - [Local Hate Speech Monitoring NGO]
+
+---
+
+## ✅ Summary
+
+This repository contains a full OSINT case documenting hate speech and incitement to violence on a public social media platform. The methodology follows ethical verification standards and ensures evidential integrity for potential legal review or media accountability.
+
+---
+
+## 📎 License
+
+This work is shared under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  
+Use it for education, documentation, or civic monitoring only.  
+
+---
+
+> ✊ *Fighting hate with facts — OSINT for accountability.*
+
 ---
 
 ## 🧪 Sample Case Report: OSINT Verification Walkthrough (Ukraine)
