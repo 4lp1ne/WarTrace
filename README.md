@@ -55,7 +55,8 @@ Osint-War-Crimes-Tools/tools.md
 │   ├── HateSonar
 │   ├── TweetScraper
 │   ├── Tweepy
-│   └── Osintgram
+│   ├── Osintgram
+│   └── OsintTube
 ├── Phone_Number_OSINT
 │   ├── Epieos
 │   ├── PhoneInfoga
@@ -92,6 +93,7 @@ Osint-War-Crimes-Tools/tools.md
     ├── Bellingcat
     ├── Syrian Archive
     └── SecureDrop
+
 
 ```
 
