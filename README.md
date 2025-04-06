@@ -1,8 +1,12 @@
 # 🌍 Digital List War Crimes OSINT Tools
 
-**Document, verify, and report war crimes and hate speech using open-source intelligence.** 
+**Document, verify, and report war crimes and hate speech using open-source intelligence.**
 
 This toolkit empowers journalists, activists, and human rights defenders to gather and validate digital evidence ethically and securely.
+
+---
+
+## Exemple:
 
 ![imgonline-com-ua-twotoone-WxpUN1sTi13he2W](https://github.com/user-attachments/assets/94450d0a-577a-429c-be08-e1bbdb875d7a)
 
