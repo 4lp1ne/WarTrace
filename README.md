@@ -157,7 +157,7 @@ submission_folder/
 
 Anonymous submissions: [SecureDrop](https://securedrop.org/)
 
-# exemple of report :
+# 1) exemple of report :
 
 # 🧪 OSINT Report — Hate Speech & Violence Promotion Documentation in social plateforms
 
@@ -250,22 +250,7 @@ Anonymous submissions: [SecureDrop](https://securedrop.org/)
 
 ---
 
-## ✅ Summary
-
-This repository contains a full OSINT case documenting hate speech and incitement to violence on a public social media platform. The methodology follows ethical verification standards and ensures evidential integrity for potential legal review or media accountability.
-
----
-
-## 📎 License
-
-This work is shared under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  
-Use it for education, documentation, or civic monitoring only.  
-
----
-
-> ✊ *Fighting hate with facts — OSINT for accountability.*
-
----
+# 2) exemple of report :
 
 ## 🧪 Sample Case Report: OSINT Verification Walkthrough (Ukraine)
 
@@ -301,6 +286,8 @@ Use it for education, documentation, or civic monitoring only.
 - Attached: original video, annotated images, metadata, contextual notes
 
 ---
+
+# 3) exemple of report :
 
 ## 🧪 Sample Case Report: OSINT Verification Walkthrough (Gaza)
 
