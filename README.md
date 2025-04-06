@@ -41,7 +41,7 @@ Osint-War-Crimes-Tools/tools.md
 │   ├── SunCalc
 │   ├── Sentinel Hub
 │   ├── Planet Labs
-│   └── SkyWatch
+│   ├── SkyWatch
 │   └── Geosint
 ├── Metadata_Redaction
 │   ├── ExifTool
@@ -85,11 +85,14 @@ Osint-War-Crimes-Tools/tools.md
 │   ├── Mempool Explorer
 │   ├── Bitquery
 │   └── Chainalysis
+├── Web_Archiving
+│   └── Wayback Machine
 └── Reporting_Resources
     ├── ICC
     ├── Bellingcat
     ├── Syrian Archive
     └── SecureDrop
+
 ```
 
 
