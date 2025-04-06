@@ -4,7 +4,7 @@
 
 This toolkit empowers journalists, activists, and human rights defenders to gather and validate digital evidence ethically and securely.
 
-![326627f2-024b-4991-90de-8ee3e2fa85a6](https://github.com/user-attachments/assets/f233e39f-bcd8-4a4f-b06d-7024e4648965)
+![imgonline-com-ua-twotoone-WxpUN1sTi13he2W](https://github.com/user-attachments/assets/94450d0a-577a-429c-be08-e1bbdb875d7a)
 
 ---
 
