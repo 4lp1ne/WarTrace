@@ -145,7 +145,7 @@ List of tools hosted on one plateform.
   
   **[archive.org](https://archive.org)**
   
-   Freeze and Store any web link with all datas at a T time on internet for       hate speach comments, crimes videos, images ... ---
+   Freeze and Store any web link with all datas at a T time on internet for       hate speach comments, crimes videos, images . . .---
 
 ## 🛡️ Privacy & Encryption
 
