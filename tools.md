@@ -107,6 +107,8 @@ This is a curated list of open-source intelligence (OSINT) tools to assist with 
 - **[Osintgram](https://github.com/Datalux/Osintgram)**\
   Instagram OSINT tool with account interaction mapping.
 
+  **[OsintTube](https://github.com/rdWei/OsintTube)**\
+  YouTube OSINT tool for extracting metadata, comments, transcripts, and mapping user activity from public videos.
 ---
 
 ## 📱 Phone Number OSINT
