@@ -1,4 +1,4 @@
-name: ✨ Feature Request
+✨ Feature Request
 description: Suggest an idea to improve WarTrace
 title: "[Feature]: "
 labels: [enhancement]
