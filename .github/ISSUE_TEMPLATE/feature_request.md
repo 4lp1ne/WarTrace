@@ -45,6 +45,6 @@ body:
     attributes:
       label: 📎 Additional Context
       description: Include any other context, articles, screenshots, or links that support your feature request.
-      placeholder: I could share articles and screenshots, but the horror of what I’ve archived — videos, comments, inhuman reactions — would get the project banned instantly if shared publicly. If you really want to face the truth, provide me a one-time email or secure drop point and I can send a sample pack of documented war glorification and hate speech. These are things that, if said by an Arab, would lead to imprisonment for terror apologia — yet are freely expressed and applauded. I’m not Arab nor defending any side only pro peace and anti crime/violence ( from any one)— just a human horrified by the silence of the so-called “axis of good.” 
+      placeholder: I could share articles and screenshots, but the horror of what I’ve archived — videos, comments, inhuman reactions — would get the project banned instantly if shared publicly. If you really want to face the truth, provide me a one-time email or secure drop point and I can send a sample pack of documented war glorification and hate speech. These are things that, if said by an Arab, would lead to imprisonment for terror apologia — yet are freely expressed and applauded. I’m not Arab nor defending any side — just a human horrified by the silence of the so-called “axis of good.”
     validations:
       required: false
