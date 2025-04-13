@@ -44,11 +44,6 @@ git clone https://github.com/4lp1ne/WarTrace.git
 cd WarTrace
 ```
 
-Create a branch:
-
-```bash
-git checkout -b your-feature-name
-```
 
 Install dependencies (example for Python backend):
 
