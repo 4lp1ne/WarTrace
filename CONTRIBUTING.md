@@ -45,11 +45,6 @@ cd WarTrace
 ```
 
 
-Install dependencies (example for Python backend):
-
-```bash
-pip install -r requirements.txt
-```
 
 Run locally (adjust depending on stack):
 
