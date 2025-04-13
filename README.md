@@ -1,4 +1,6 @@
-# 🌍 Digital List War Crimes OSINT Tools
+# 🌍 A Digital List Of War Crimes OSINT Tools *
+
+## This Project Is Always in Progress — Contributions Welcome! ##
 
 **Document, verify, and report war crimes and hate speech using open-source intelligence.**
 
