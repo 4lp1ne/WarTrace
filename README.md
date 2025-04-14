@@ -8,6 +8,30 @@ This toolkit empowers journalists, activists, and human rights defenders to gath
 
 ---
 
+The very first thing to do is to archive the content on the Wayback Machine (archive.org) to freeze evidence of posted hate speech or war crimes — even if the author deletes it later.
+
+Methodology:
+
+1. Go to: https://archive.org/web
+
+
+2. Copy the URL of the post, video, comment, or page you want to preserve
+
+
+3. Paste it into the input field under “Save Page Now”
+
+
+4. Click “Save”
+
+
+5. Wait a few seconds for the snapshot to be captured
+
+
+
+That's it — the content is now permanently stored and timestamped.
+
+---
+
 ## Exemple:
 
 ![imgonline-com-ua-twotoone-WxpUN1sTi13he2W](https://github.com/user-attachments/assets/94450d0a-577a-429c-be08-e1bbdb875d7a)
